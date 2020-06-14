@@ -1,7 +1,7 @@
 # Matrix-Math
 A simple java library for basic matrix math 
 
-## Installation
+## Import the library
 
 1. Add the repositories in the POM.xml file
 ```xml
