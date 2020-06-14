@@ -6,10 +6,10 @@ A simple java library for basic matrix math
 1. Add the repositories in the POM.xml file
 ```xml
 <repositories>
-   <repository>
-       <id>jitpack.io</id>
-       <url>https://jitpack.io</url>
-   </repository>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
 </repositories>
 ```
 
@@ -18,8 +18,8 @@ A simple java library for basic matrix math
 <dependencies>
     <dependency>
         <groupId>com.github.Raf-rgb</groupId>
-        <artifactId>Matrix-Math---Java-Library</artifactId>
-	<version>Tag</version>
+        <artifactId>Matrix-Math</artifactId>
+        <version>1.0</version>
     </dependency>
 </dependencies>
 ```
