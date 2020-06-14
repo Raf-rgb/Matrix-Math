@@ -24,13 +24,7 @@ A simple java library for basic matrix math
 </dependencies>
 ```
 
-3. Right click on the Dependencies folder and select "Download Declared Dependencies" option
-
-4. Finally import the class
-
-```java
-import com.math.Matrix;
-```
+3. Refresh Maven
 
 ## Usage
 
